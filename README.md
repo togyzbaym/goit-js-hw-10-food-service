@@ -100,3 +100,5 @@ const Theme = {
   </article>
 </li>
 ```
+
+[![.github/workflows/deploy.yml](https://github.com/togyzbaym/goit-js-hw-10-food-service/actions/workflows/deploy.yml/badge.svg?branch=main&event=schedule)](https://github.com/togyzbaym/goit-js-hw-10-food-service/actions/workflows/deploy.yml)
